@@ -1,14 +1,5 @@
- Hi there 👋
- 
-I'm Anantharaman, a Machine learning entusiast!  I have worked worked across domains and worked on  building machine learning solutions in text, images, audio and even time series data. My current obscession are LLM's. Check out some of my most prolific  projects 
+Hi 👋
 
-<br>
-<br>
+I'm Ananth, a Machine Learning Engineer building Voice AI.
 
-|project| Description|
-|----|----|
-|voice cloner | an advanced text-to-speech system that can replicate any voice with just a few second sof target speech |
-|mutual circle visualizer| a social media analytics tool for instagram that allows you to view your entire follower network as a network graph|
-|ML algorithms| a collection of typed out notes and code, of various ML , statistics and various data science concepts|
-|computer vision| a collection of jupyter notebooks  implementing several computer vision concepts spanning from basic computer vision to advanced generative models|
-
+I build real-time voice systems—the unglamorous but critical plumbing under the hood that makes low-latency, production-grade voice applications actually work. My toolbox includes ASR, TTS, machine translation, LLMs and speaker diarization, along with the streaming pipelines and system-level optimizations needed to keep voice interactions fast, stable, and scalable.
